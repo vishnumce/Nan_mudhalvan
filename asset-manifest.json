@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.0064eaa9.js",
+    "static/media/alarm.wav": "/static/media/alarm.b838b4307d895a7ef726.wav",
+    "index.html": "/index.html",
+    "main.0064eaa9.js.map": "/static/js/main.0064eaa9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0064eaa9.js"
+  ]
+}
